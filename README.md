@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/__fuvad_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="60" />
   </a>
   <a href="https://www.linkedin.com/in/fuvad-sinin/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
   </a>
 </p>
 
