@@ -10,10 +10,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/__fuvad_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram, &theme=dark" alt="Instagram" height="60" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="60" />
   </a>
   <a href="https://www.linkedin.com/in/fuvad-sinin/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin, &theme=dark" alt="LinkedIn" height="60" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="60" />
   </a>
 </p>
 
@@ -82,6 +82,6 @@
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes,&theme=dark" alt="kubernetes" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="kubernetes" width="40" height="40"/>
   </a>
 </p>
