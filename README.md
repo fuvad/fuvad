@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" height="60"/>
   </a>
 
-    <!-- Power BI -->
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" height="60"/>
   </a>
