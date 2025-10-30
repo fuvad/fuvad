@@ -67,6 +67,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" height="50"/>
   </a>
 
+  <!-- DSA (using LeetCode icon for representation) -->
+  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dsa" height="50"/>
+  </a>
+
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" height="60"/>
