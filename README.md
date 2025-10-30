@@ -24,51 +24,51 @@
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" width="40" height="60"/>
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="python" height="60"/>
   </a>
 
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgresql" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgresql" height="60"/>
   </a>
 
   <!-- Deep Learning / AI -->
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="tensorflow" height="60"/>
   </a>
 
   <!-- Cloud Services -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" height="60"/>
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="gcp" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="gcp" height="60"/>
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="60"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" height="60"/>
   </a>
   
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" height="60"/>
   </a>
 
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" height="60"/>
   </a>
 
   <!-- Microservices -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" height="60"/>
   </a>
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="kubernetes" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="kubernetes" height="60"/>
   </a>
 </p>
