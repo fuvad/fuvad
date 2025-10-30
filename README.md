@@ -62,15 +62,21 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" height="50"/>
   </a>
 
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="50"/>
+  </a>
+  
   <!-- PySpark -->
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" height="50"/>
   </a>
-
-  <!-- DSA (using LeetCode icon for representation) -->
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dsa" height="50"/>
+  
+  <!-- Machine Learning -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50"/>
   </a>
+
 
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
