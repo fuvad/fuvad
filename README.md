@@ -82,6 +82,6 @@
 
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" alt="kubernetes" width="40" height="40"/>
   </a>
 </p>
