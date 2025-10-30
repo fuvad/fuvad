@@ -57,30 +57,6 @@
     <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" width="40" height="40"/>
   </a>
 
-  <!-- PySpark (Apache Spark icon - perfect rep!) -->
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/apachespark.svg" alt="PySpark" width="40" height="40"/>
-  </a>
-  
-  <!-- DSA (LeetCode) -->
-  <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/leetcode.svg" alt="DSA" width="40" height="40"/>
-  </a>
-  
-  <!-- Power BI (Shields.io badge-style) -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PowerBI-F7931E?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" width="40" height="40" style="border-radius:6px;"/>
-  </a>
-  
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  
-  <!-- Machine Learning (Scikit-learn) -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" width="40" height="40"/>
