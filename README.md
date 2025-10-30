@@ -57,6 +57,11 @@
     <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Kafka" height="60"/>
   </a>
 
+    <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" height="60"/>
+  </a>
+
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="fastapi" height="60"/>
