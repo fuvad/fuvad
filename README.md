@@ -72,11 +72,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" height="50"/>
   </a>
   
-  <!-- Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="50"/>
-  </a>
-
 
   <!-- API -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
