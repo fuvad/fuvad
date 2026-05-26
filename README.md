@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Muhammad Fuvad Sinin</h1>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m an **AI Engineer** and a **Data Scientist**
 
-- 💬 Ask me about **Python, Power BI, SQL, Cloud-Services, ML, DL, AI, API, Microservices**
+- 💬 Ask me about **Python, Agentic AI, RAG, LLMs, Power BI, SQL, Cloud-Services, ML, DL, AI, API, Microservices, Deployment**
 
 - 📫 How to reach me **fuvad777@gmail.com**
 
